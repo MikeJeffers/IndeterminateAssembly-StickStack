@@ -1,3 +1,9 @@
+#java eclipse stuff
+.project
+.classpath
+.settings
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

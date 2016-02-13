@@ -3,6 +3,17 @@
 .classpath
 .settings
 
+# Java class files
+*.class
+
+# generated files
+bin/
+build/
+
+# workspace configuration files
+.settings/
+.metadata/
+
 
 # Windows image file caches
 Thumbs.db
